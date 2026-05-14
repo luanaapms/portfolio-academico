@@ -228,3 +228,96 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 https://github.com/user-attachments/assets/0401d2a1-18c5-47c7-b12e-ae57ed1aac27
 
 </details>
+
+<details>
+<summary>
+  PontoLog - (2025-1)
+ </summary>
+
+## 💻 PontoLog
+
+* ### Introdução
+
+O desenvolvimento do projeto ocorreu no terceiro semestre do curso, sob orientação do professor Marcus Nascimento. A proposta foi conduzida em ambiente acadêmico simulando um cenário real de mercado, com foco na análise de dados de comércio exterior e no desenvolvimento de uma plataforma web para apoio à tomada de decisão.
+
+* ### Objetivo
+
+Desenvolver uma plataforma web capaz de disponibilizar informações sobre o desempenho dos Estados Brasileiros no comércio exterior, utilizando dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços para apoiar análises estratégicas e tomadas de decisão.
+
+* ### Problema
+
+Empresas e analistas do setor logístico frequentemente lidam com grandes volumes de dados brutos relacionados à balança comercial, importação e exportação. Entretanto, essas informações nem sempre estão organizadas de forma acessível e intuitiva, dificultando a identificação de tendências, comparações entre estados e análises estratégicas do mercado internacional.
+
+* ### Solução
+
+A solução desenvolvida consistiu na criação da plataforma web **PontoLog**, responsável por transformar dados logísticos e estatísticos em visualizações intuitivas e acessíveis. O sistema integra dados tratados e organizados em banco de dados, permitindo ao usuário visualizar estatísticas de comércio exterior, comparar estados, analisar tendências e gerar gráficos de desempenho.
+
+A aplicação foi construída com foco em usabilidade, responsividade e experiência do usuário, oferecendo filtros dinâmicos por período, estado e produtos, além de dashboards interativos para facilitar análises rápidas e eficientes. O projeto também contemplou integração entre frontend e backend para consumo e exibição dos dados processados.
+
+* ### Tecnologias Utilizadas
+
+<div align="center">
+
+| Tecnologias                                                                                                                | Aplicação                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| ![React](https://img.shields.io/badge/React-5E35B1?style=for-the-badge\&logo=react\&logoColor=white)                       | Desenvolvimento da interface web e construção dos componentes da aplicação.        |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-5E35B1?style=for-the-badge\&logo=typescript\&logoColor=white)        | Desenvolvimento tipado das funcionalidades frontend e maior organização do código. |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-5E35B1?style=for-the-badge\&logo=javascript\&logoColor=white)        | Implementação de funcionalidades dinâmicas e manipulação de dados na aplicação.    |
+| ![Node.js](https://img.shields.io/badge/Node.js-5E35B1?style=for-the-badge\&logo=node.js\&logoColor=white)                 | Desenvolvimento da camada backend e integração entre serviços da aplicação.        |
+| ![Python](https://img.shields.io/badge/Python-5E35B1?style=for-the-badge\&logo=python\&logoColor=white)                    | Tratamento e processamento de dados utilizados na plataforma.                      |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5E35B1?style=for-the-badge\&logo=postgresql\&logoColor=white)        | Armazenamento e gerenciamento dos dados tratados do sistema.                       |
+| ![TypeORM](https://img.shields.io/badge/TypeORM-5E35B1?style=for-the-badge\&logo=typeorm\&logoColor=white)                 | Mapeamento e manipulação das entidades do banco de dados na aplicação backend.     |
+| ![Redis](https://img.shields.io/badge/Redis-5E35B1?style=for-the-badge\&logo=redis\&logoColor=white)                       | Gerenciamento de cache e otimização de desempenho da aplicação.                    |
+| ![Google Colab](https://img.shields.io/badge/Google%20Colab-5E35B1?style=for-the-badge\&logo=googlecolab\&logoColor=white) | Apoio no tratamento, exploração e análise dos dados utilizados no projeto.         |
+| ![Figma](https://img.shields.io/badge/Figma-5E35B1?style=for-the-badge\&logo=figma\&logoColor=white)                       | Prototipação das interfaces e organização da experiência do usuário.               |
+| ![GitHub](https://img.shields.io/badge/GitHub-5E35B1?style=for-the-badge\&logo=github\&logoColor=white)                    | Controle de versão, organização do repositório e colaboração em equipe.            |
+| ![Trello](https://img.shields.io/badge/Trello-5E35B1?style=for-the-badge\&logo=trello\&logoColor=white)                    | Organização das tarefas e acompanhamento das entregas durante as sprints.          |
+
+</div>
+
+* ### Minhas Contribuições
+
+Durante o desenvolvimento do projeto, participei diretamente de diversas áreas essenciais da aplicação:
+
+* Desenvolvimento de componentes reutilizáveis da interface, incluindo **cards, tabs, footer, skeletons e tooltips**.
+
+* Implementação de melhorias de **responsividade**, garantindo adaptação da plataforma para diferentes dispositivos e tamanhos de tela.
+
+* Desenvolvimento da **homepage** da aplicação, estruturando elementos visuais e navegação inicial do sistema.
+
+* Desenvolvimento da página **Sobre Nós**, apresentando informações institucionais da plataforma e da equipe.
+
+* Desenvolvimento de **services**, realizando integração entre a interface e os dados disponibilizados pela aplicação.
+
+* ### Hard Skills
+
+Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
+
+* React — uso com autonomia na criação de interfaces componentizadas e reutilizáveis;
+* TypeScript — experiência na construção de aplicações frontend tipadas e organizadas;
+* JavaScript — experiência na implementação de funcionalidades dinâmicas;
+* Integração frontend/backend — experiência no consumo de APIs e organização de services;
+* PostgreSQL — experiência na manipulação e estruturação de dados relacionais;
+* Python — experiência no tratamento e análise de dados;
+* Git e GitHub — uso com autonomia para versionamento e colaboração em equipe;
+* Metodologias Ágeis (SCRUM) — uso com autonomia na organização das atividades e desenvolvimento colaborativo.
+
+- ### Soft Skills
+
+- **Foco na experiência do usuário:** desenvolvimento de interfaces intuitivas, componentes reutilizáveis e adaptação responsiva para diferentes dispositivos.
+
+- **Organização e padronização:** criação de componentes reutilizáveis visando consistência visual e melhor manutenção da aplicação.
+
+- **Trabalho em equipe:** colaboração contínua com os integrantes durante o desenvolvimento das funcionalidades e integração da aplicação.
+
+- **Proatividade e resolução de problemas:** participação na implementação de melhorias visuais e estruturais da plataforma.
+
+- **Responsabilidade e gestão de tarefas:** acompanhamento das entregas e organização das atividades utilizando metodologias ágeis.
+
+- [Link do Repositório](https://github.com/PontoLog)
+  
+
+https://github.com/user-attachments/assets/efc6cfdc-aafd-4310-8464-a3ac131bcb2a
+
+</details>
+
