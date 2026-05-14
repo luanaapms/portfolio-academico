@@ -138,3 +138,93 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 https://github.com/user-attachments/assets/0eb48b37-3819-4e7d-97bd-009cfc50fa01
 
 </details>
+
+<details>
+<summary>
+  DocEye - (2024-2)
+ </summary>
+
+## 💻 DocEye
+
+* ### Introdução
+
+O desenvolvimento do projeto ocorreu no segundo semestre do curso, sob orientação do professor Giuliano Bertoti, que atuava como cliente externo.
+
+* ### Objetivo
+
+Desenvolver um software desktop capaz de realizar a extração automática de informações presentes em documentos, utilizando modelos de inteligência artificial para transformar dados não estruturados em informações organizadas e manipuláveis.
+
+* ### Problema
+
+Muitas empresas lidam diariamente com grandes volumes de documentos, como currículos, notas fiscais e formulários, tornando o processo de leitura e extração de informações lento e dependente da ação humana. Além disso, apenas extrair o texto bruto nem sempre é suficiente, já que muitas informações dependem da estrutura visual e do layout do documento.
+
+* ### Solução
+
+A solução desenvolvida consistiu na criação de um software desktop em **Java**, integrado a modelos de inteligência artificial para leitura e extração automatizada de informações presentes em documentos. O sistema permite o carregamento de arquivos, processamento das informações por meio de modelos VLM (Vision Language Model), armazenamento dos dados em banco de dados **MySQL** e manipulação das informações extraídas de forma prática e organizada.
+
+A aplicação foi projetada com foco em usabilidade, oferecendo uma interface gráfica minimalista e intuitiva para facilitar o uso por recrutadores e profissionais responsáveis pela análise documental. O projeto também contemplou funcionalidades de cadastro automático das informações extraídas, visualização dos registros armazenados e filtragem de dados para otimizar processos seletivos.
+
+* ### Tecnologias Utilizadas
+
+<div align="center">
+
+| Tecnologias                                                                                                                   | Aplicação                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| ![Java](https://img.shields.io/badge/Java-5E35B1?style=for-the-badge\&logo=openjdk\&logoColor=white)                          | Desenvolvimento da aplicação desktop, lógica do sistema e integração entre as funcionalidades.          |
+| ![MySQL](https://img.shields.io/badge/MySQL-5E35B1?style=for-the-badge\&logo=mysql\&logoColor=white)                          | Armazenamento e manipulação das informações extraídas dos documentos.                                   |
+| ![Ollama](https://img.shields.io/badge/Ollama-5E35B1?style=for-the-badge\&logo=ollama\&logoColor=white)                       | Utilização de modelos de inteligência artificial para leitura e extração de informações dos documentos. |
+| ![Figma](https://img.shields.io/badge/Figma-5E35B1?style=for-the-badge\&logo=figma\&logoColor=white)                          | Criação de protótipos e apoio na definição da experiência do usuário.                                   |
+| ![GitHub](https://img.shields.io/badge/GitHub-5E35B1?style=for-the-badge\&logo=github\&logoColor=white)                       | Controle de versão, armazenamento do repositório e colaboração em equipe.                               |
+| ![Draw.io](https://img.shields.io/badge/Draw.io-5E35B1?style=for-the-badge\&logo=diagramsdotnet\&logoColor=white)             | Modelagem de diagramas e representação da arquitetura do sistema.                                       |
+| ![Trello](https://img.shields.io/badge/Trello-5E35B1?style=for-the-badge\&logo=trello\&logoColor=white)                       | Organização das tarefas, acompanhamento das sprints e gerenciamento do projeto.                         |
+| ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-5E35B1?style=for-the-badge\&logo=googlesheets\&logoColor=white) | Organização de informações, acompanhamento de atividades.          |
+| ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-5E35B1?style=for-the-badge\&logo=intellijidea\&logoColor=white) | Ambiente de desenvolvimento utilizado na construção da aplicação.                                       |
+
+</div>
+
+* ### Minhas Contribuições
+
+Durante o desenvolvimento do projeto, participei diretamente de diversas áreas essenciais da aplicação:
+
+* Desenvolvimento das operações de **CRUD** para manipulação dos dados armazenados no sistema.
+
+* Desenvolvimento da **tela inicial do software**, estruturando a navegação inicial da aplicação.
+
+* Criação de **elementos estilizados da interface**, contribuindo para uma experiência visual mais organizada e intuitiva.
+
+* Desenvolvimento do **manual do usuário**, documentando funcionalidades e instruções de utilização do sistema.
+
+* Participação na **documentação técnica do projeto**, auxiliando na organização das informações, estruturação dos artefatos e descrição das funcionalidades implementadas.
+
+* Atuação no **time de desenvolvimento**, colaborando na implementação das funcionalidades e evolução contínua do sistema durante as sprints.
+
+* ### Hard Skills
+
+Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
+
+* Java — experiência no desenvolvimento de aplicações desktop e implementação da lógica do sistema;
+* MySQL — uso com autonomia para modelagem, armazenamento e manipulação de dados;
+* Ollama e Inteligência Artificial — experiência na integração de modelos de IA para extração de informações;
+* Figma — uso com autonomia na prototipação e apoio à definição da experiência do usuário;
+* Draw.io — uso com autonomia na modelagem de diagramas e arquitetura do sistema;
+* Git e GitHub — uso com autonomia para versionamento, organização e colaboração em equipe;
+* Metodologias Ágeis (SCRUM) — uso com autonomia na organização das tarefas e desenvolvimento colaborativo.
+
+- ### Soft Skills
+
+- **Organização e documentação:** participação na construção da documentação técnica e elaboração do manual do usuário, contribuindo para clareza e manutenção do projeto.
+
+- **Foco na experiência do usuário:** desenvolvimento de elementos visuais e estruturação da interface com foco em usabilidade e navegação intuitiva.
+
+- **Trabalho em equipe:** colaboração constante com o time de desenvolvimento durante as sprints e implementação das funcionalidades da aplicação.
+
+- **Proatividade e resolução de problemas:** participação na implementação de melhorias e desenvolvimento de funcionalidades essenciais para o funcionamento do sistema.
+
+- **Responsabilidade e gestão de tarefas:** acompanhamento das atividades e organização das entregas.
+
+- [Link do Repositório](https://github.com/CodeDontBlow/DocEye)
+
+
+https://github.com/user-attachments/assets/0401d2a1-18c5-47c7-b12e-ae57ed1aac27
+
+</details>
