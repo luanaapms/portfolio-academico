@@ -321,3 +321,99 @@ https://github.com/user-attachments/assets/efc6cfdc-aafd-4310-8464-a3ac131bcb2a
 
 </details>
 
+<details>
+<summary>
+  Descriptum - (2025-2)
+ </summary>
+
+## 💻 Descriptum
+
+* ### Introdução
+
+O desenvolvimento do projeto ocorreu no quarto semestre do curso, em parceria com Creonice Honório, da empresa TecSys. A proposta foi baseada em um cenário real do setor de importação, com foco na automatização do processo de classificação de produtos para registros de importação, reduzindo erros operacionais e aumentando a eficiência no preenchimento de informações fiscais.
+
+* ### Objetivo
+
+Desenvolver um agente de Inteligência Artificial capaz de automatizar a análise de documentos de importação e gerar descrições técnicas padronizadas para Registro de Importação, garantindo maior precisão, conformidade regulatória e redução de erros no processo aduaneiro.
+
+* ### Problema
+
+Empresas que atuam com importação frequentemente enfrentam dificuldades no preenchimento correto de registros aduaneiros, principalmente na elaboração de descrições técnicas detalhadas e padronizadas exigidas pela Receita Federal. Processos manuais podem gerar inconsistências, dúvidas sobre os produtos declarados, retrabalho e riscos de penalidades ou multas relacionadas à classificação incorreta das mercadorias.
+
+* ### Solução
+
+A solução desenvolvida consistiu na criação da plataforma **Descriptum**, responsável por automatizar a análise de documentos de importação utilizando Inteligência Artificial. O sistema permite o envio de documentos como notas fiscais, pedidos de compra e catálogos técnicos, realizando extração automática de informações relevantes, padronização de dados e geração de descrições detalhadas dos produtos.
+
+A aplicação também foi projetada para auxiliar na sugestão de classificações fiscais (NCM), armazenamento organizado das informações extraídas e exportação de relatórios, proporcionando mais agilidade, confiabilidade e conformidade nos processos de importação. O projeto priorizou uma interface intuitiva e funcionalidades voltadas à experiência do usuário, reduzindo a complexidade operacional do processo aduaneiro.
+
+* ### Tecnologias Utilizadas
+
+<div align="center">
+
+| Tecnologias                                                                                                         | Aplicação                                                                               |
+| ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| ![React](https://img.shields.io/badge/React-5E35B1?style=for-the-badge\&logo=react\&logoColor=white)                | Desenvolvimento da interface frontend da aplicação.                                     |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-5E35B1?style=for-the-badge\&logo=typescript\&logoColor=white) | Estruturação tipada das funcionalidades frontend e organização da aplicação.            |
+| ![Python](https://img.shields.io/badge/Python-5E35B1?style=for-the-badge\&logo=python\&logoColor=white)             | Desenvolvimento da API e processamento das informações da aplicação.                    |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-5E35B1?style=for-the-badge\&logo=fastapi\&logoColor=white)          | Construção da API responsável pela comunicação entre os serviços do sistema.            |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5E35B1?style=for-the-badge\&logo=postgresql\&logoColor=white) | Armazenamento e gerenciamento das informações processadas pela aplicação.               |
+| ![Docker](https://img.shields.io/badge/Docker-5E35B1?style=for-the-badge\&logo=docker\&logoColor=white)             | Conteinerização dos serviços da aplicação e padronização do ambiente.                   |
+| ![Ollama](https://img.shields.io/badge/Ollama-5E35B1?style=for-the-badge\&logo=ollama\&logoColor=white)             | Integração com modelos locais de Inteligência Artificial.                               |
+| ![ChromaDB](https://img.shields.io/badge/ChromaDB-5E35B1?style=for-the-badge\&logo=databricks\&logoColor=white)     | Banco vetorial utilizado para busca semântica e manipulação das informações. |
+| ![Node.js](https://img.shields.io/badge/Node.js-5E35B1?style=for-the-badge\&logo=node.js\&logoColor=white)          | Apoio em serviços auxiliares e funcionalidades da aplicação.                            |
+| ![Vite](https://img.shields.io/badge/Vite-5E35B1?style=for-the-badge\&logo=vite\&logoColor=white)                   | Ferramenta utilizada para configuração e build da aplicação frontend.                   |
+| ![Figma](https://img.shields.io/badge/Figma-5E35B1?style=for-the-badge\&logo=figma\&logoColor=white)                | Prototipação das interfaces e apoio na experiência do usuário.                          |
+| ![Jira](https://img.shields.io/badge/Jira-5E35B1?style=for-the-badge\&logo=jira\&logoColor=white)                   | Organização das tarefas e gerenciamento das atividades do projeto.                      |
+| ![GitHub](https://img.shields.io/badge/GitHub-5E35B1?style=for-the-badge\&logo=github\&logoColor=white)             | Controle de versão e colaboração entre os integrantes da equipe.                        |
+
+</div>
+
+* ### Minhas Contribuições
+
+Durante o desenvolvimento do projeto, participei diretamente de diversas áreas essenciais da aplicação:
+
+* Desenvolvimento de **drag and drop** para envio de documentos PDF, e implementação da funcionalidade de **leitura e envio de arquivos PDF** para processamento pela aplicação.
+
+* Desenvolvimento da integração com **WebSocket**, permitindo comunicação em tempo real entre frontend e backend.
+
+* Implementação da funcionalidade de **download de planilhas Excel** contendo as informações processadas pelo sistema.
+
+* Realização de **correções de rotas** e ajustes estruturais na aplicação frontend.
+
+* Participação na **documentação técnica do projeto**, auxiliando na organização das informações e descrição das funcionalidades implementadas.
+
+* ### Hard Skills
+
+Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
+
+* React — experiência no desenvolvimento de interfaces modernas e componentizadas;
+* TypeScript — experiência na construção de aplicações frontend tipadas;
+* Python e FastAPI — uso com autonomia no desenvolvimento e integração de APIs;
+* WebSocket — experiência na implementação de comunicação em tempo real;
+* PostgreSQL — uso com autonomia no armazenamento e gerenciamento de dados;
+* Docker — experiência na conteinerização da aplicação com apoio da equipe;
+* Ollama e Inteligência Artificial — experiência na integração de modelos locais de IA;
+* Git e GitHub — uso com autonomia para versionamento e colaboração em equipe;
+* Metodologias Ágeis (SCRUM) — uso com autonomia na organização das tarefas e desenvolvimento colaborativo.
+
+- ### Soft Skills
+
+- **Foco na experiência do usuário:** desenvolvimento de funcionalidades intuitivas para envio e manipulação de documentos dentro da aplicação.
+
+- **Trabalho em equipe:** colaboração constante com o time durante integrações, correções e evolução das funcionalidades do sistema.
+
+- **Proatividade e resolução de problemas:** participação em ajustes estruturais, correções de rotas e melhorias no fluxo da aplicação.
+
+- **Organização e documentação:** participação na documentação técnica e organização das funcionalidades implementadas.
+
+- **Adaptabilidade e aprendizado contínuo:** contato com tecnologias de Inteligência Artificial, comunicação em tempo real e banco vetorial durante o desenvolvimento do projeto.
+
+- [Link do Repositório](https://github.com/Descriptum)
+  
+
+https://github.com/user-attachments/assets/21c88638-9079-41a0-bb21-cd13cd550546
+
+
+</details>
+
+
