@@ -8,9 +8,9 @@ Olá! Meu nome é Luana Aparecida Moraes Souza, tenho 20 anos e atualmente estou
 
 Minha trajetória na tecnologia começou durante o ensino médio integrado ao curso técnico de Desenvolvimento de Sistemas na ETEC, onde tive meus primeiros contatos com programação e desenvolvimento de software. Essa experiência foi essencial para o meu amadurecimento profissional e despertou ainda mais meu interesse pela área de tecnologia.
 
-Ao ingressar na Fatec, ampliei meus conhecimentos por meio de projetos acadêmicos, feiras de tecnologia e atividades práticas desenvolvidas ao longo da graduação. A participação constante em projetos integradores contribuiu significativamente para o desenvolvimento das minhas habilidades técnicas, analíticas e de trabalho em equipe.
+Escolhi então, cursar Análise e Desenvolvimento de Sistemas na Fatec devido ao forte vínculo da instituição com o mercado de tecnologia, à metodologia baseada em projetos (APIs) e à oportunidade de desenvolver soluções reais em equipe, aproximando a formação acadêmica do ambiente profissional. Ao ingressar na Fatec, ampliei meus conhecimentos por meio de projetos acadêmicos, feiras de tecnologia e atividades práticas desenvolvidas ao longo da graduação. A participação constante em projetos integradores contribuiu significativamente para o desenvolvimento das minhas habilidades técnicas, analíticas e de trabalho em equipe.
 
-Atualmente, direciono meu foco para a área de Análise de Dados, atuando com demandas analíticas voltadas ao negócio, transformando necessidades operacionais e comerciais em análises, indicadores e visualizações que auxiliam no acompanhamento de resultados e na tomada de decisão.
+Atualmente, direciono meu foco para a área de Análise de Dados e atuo como estagiária em demandas analíticas voltadas ao negócio, transformando necessidades operacionais e comerciais em análises, indicadores e visualizações que auxiliam no acompanhamento de resultados e na tomada de decisão.
 
 ## Contatos
 
