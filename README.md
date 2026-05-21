@@ -8,7 +8,7 @@ Olá! Meu nome é Luana Aparecida Moraes Souza, tenho 20 anos e atualmente estou
 
 Minha trajetória na tecnologia começou durante o ensino médio integrado ao curso técnico de Desenvolvimento de Sistemas na ETEC, onde tive meus primeiros contatos com programação e desenvolvimento de software. Essa experiência foi essencial para o meu amadurecimento profissional e despertou ainda mais meu interesse pela área de tecnologia.
 
-Escolhi então, cursar Análise e Desenvolvimento de Sistemas na Fatec devido ao forte vínculo da instituição com o mercado de tecnologia, à metodologia baseada em projetos (APIs) e à oportunidade de desenvolver soluções reais em equipe, aproximando a formação acadêmica do ambiente profissional. Ao ingressar na Fatec, ampliei meus conhecimentos por meio de projetos acadêmicos, feiras de tecnologia e atividades práticas desenvolvidas ao longo da graduação. A participação constante em projetos integradores contribuiu significativamente para o desenvolvimento das minhas habilidades técnicas, analíticas e de trabalho em equipe.
+Escolhi então, cursar Análise e Desenvolvimento de Sistemas na Fatec devido ao forte vínculo da instituição com o mercado de tecnologia, à metodologia baseada em projetos (APIs) e à oportunidade de desenvolver soluções reais em equipe, aproximando a formação acadêmica do ambiente profissional. Ao ingressar, ampliei meus conhecimentos por meio de projetos acadêmicos, feiras de tecnologia e atividades práticas desenvolvidas ao longo da graduação. A participação constante em projetos integradores contribuiu significativamente para o desenvolvimento das minhas habilidades técnicas, analíticas e de trabalho em equipe.
 
 Atualmente, direciono meu foco para a área de Análise de Dados e atuo como estagiária em demandas analíticas voltadas ao negócio, transformando necessidades operacionais e comerciais em análises, indicadores e visualizações que auxiliam no acompanhamento de resultados e na tomada de decisão.
 
@@ -122,15 +122,15 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 
 - ### Soft Skills
 
-- **Foco na experiência do usuário:** utilização de protótipos no Figma como base para construção do layout final, priorizando clareza visual, navegação intuitiva e responsividade.
+- **Foco na experiência do usuário:** utilizei protótipos no Figma como base para construção das telas e apresentei o sistema para familiares realizarem testes de navegação e uso das funcionalidades. A partir do feedback recebido, identifiquei pontos de melhoria no fluxo, organização visual e clareza da interface, buscando tornar a experiência mais intuitiva e acessível.
 
 - **Proatividade e resolução de problemas:** identificação de melhorias na estrutura do sistema, correção de bugs e otimização de funcionalidades durante o desenvolvimento.
 
 - **Responsabilidade e organização:** cumprimento de prazos, gerenciamento de tarefas e acompanhamento das entregas utilizando Trello.
 
-- **Comunicação e liderança:** atuação como Scrum Master, promovendo alinhamento entre a equipe, organização das atividades e acompanhamento do progresso das entregas.
+- **Comunicação e colaboração:** atuando como Scrum Master, criei uma rotina de dailys para compartilhamento de atualizações sobre o andamento do projeto, dificuldades encontradas e próximos passos da equipe. Essa prática ajudou a manter maior alinhamento entre os integrantes, melhorar a distribuição das tarefas e aumentar a visibilidade do progresso das entregas.
 
-- **Trabalho em equipe:** colaboração constante no desenvolvimento das funcionalidades e apoio aos integrantes durante as etapas do projeto.
+- **Trabalho em equipe:** colaborei no desenvolvimento das funcionalidades e compartilhei conhecimentos técnicos com integrantes quando necessário, auxiliando na resolução de dificuldades e contribuindo para maior integração do grupo durante o desenvolvimento do projeto.
   
 - [Link do Repositório](https://github.com/CodeDontBlow/Scrum-Tutor)
 
@@ -212,15 +212,15 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 
 - ### Soft Skills
 
-- **Organização e documentação:** participação na construção da documentação técnica e elaboração do manual do usuário, contribuindo para clareza e manutenção do projeto.
+- **Organização e documentação:** participação na construção da documentação técnica e elaboração do manual do usuário, contribuindo para clareza e manutenção do projeto. Essa atuação contribuiu para facilitar a manutenção da aplicação, o entendimento do projeto pela equipe e a utilização do software por novos usuários.
 
-- **Foco na experiência do usuário:** desenvolvimento de elementos visuais e estruturação da interface com foco em usabilidade e navegação intuitiva.
+- **Foco na experiência do usuário:** Ao desenvolver elementos da interface e a tela inicial da aplicação, procurei pensar em como recrutadores ou responsáveis pela análise documental utilizariam o sistema no dia a dia. Isso influenciou decisões voltadas para simplificar navegação, organizar informações e tornar o fluxo mais intuitivo.
+
+- **Curiosidade e aprendizado contínuo:** busquei entender além da implementação prática como modelos de IA interpretam textos, estrutura visual e contexto dos arquivos enviados. Tive curiosidade em compreender limitações desses modelos em tarefas como análise de currículos, onde pequenas diferenças na formatação podem impactar a extração correta dos dados. Esse interesse me ajudou a desenvolver maior senso crítico sobre uso de IA, qualidade dos resultados gerados e importância da validação das informações processadas.
 
 - **Trabalho em equipe:** colaboração constante com o time de desenvolvimento durante as sprints e implementação das funcionalidades da aplicação.
 
 - **Proatividade e resolução de problemas:** participação na implementação de melhorias e desenvolvimento de funcionalidades essenciais para o funcionamento do sistema.
-
-- **Responsabilidade e gestão de tarefas:** acompanhamento das atividades e organização das entregas.
 
 - [Link do Repositório](https://github.com/CodeDontBlow/DocEye)
 
@@ -238,7 +238,7 @@ https://github.com/user-attachments/assets/0401d2a1-18c5-47c7-b12e-ae57ed1aac27
 
 * ### Introdução
 
-O desenvolvimento do projeto ocorreu no terceiro semestre do curso, sob orientação do professor Marcus Nascimento. A proposta foi conduzida em ambiente acadêmico simulando um cenário real de mercado, com foco na análise de dados de comércio exterior e no desenvolvimento de uma plataforma web para apoio à tomada de decisão.
+O desenvolvimento do projeto ocorreu no terceiro semestre do curso, sob orientação do cliente e coordenador do curso de Logística, Marcus Nascimento. A proposta foi conduzida em ambiente acadêmico simulando um cenário real de mercado, com foco na análise de dados de comércio exterior e no desenvolvimento de uma plataforma web para apoio à tomada de decisão.
 
 * ### Objetivo
 
@@ -304,15 +304,13 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 
 - ### Soft Skills
 
-- **Foco na experiência do usuário:** desenvolvimento de interfaces intuitivas, componentes reutilizáveis e adaptação responsiva para diferentes dispositivos.
+- **Foco na experiência do usuário:** desenvolvimento de interfaces intuitivas, componentes reutilizáveis e adaptação responsiva para diferentes dispositivos. Precisei analisar como as informações seriam apresentadas em diferentes tamanhos de tela, fortalecendo minha preocupação em desenvolver interfaces não apenas funcionais, mas acessíveis para o usuário final.
 
-- **Organização e padronização:** criação de componentes reutilizáveis visando consistência visual e melhor manutenção da aplicação.
+- **Organização e padronização:** criação de componentes reutilizáveis visando consistência visual e melhor manutenção da aplicação. Em vez de criar soluções específicas para apenas uma tela, pensei em estruturas que pudessem ser reaproveitadas em outras partes do sistema, reduzindo retrabalho e tornando o desenvolvimento mais consistente para toda a equipe.
 
-- **Trabalho em equipe:** colaboração contínua com os integrantes durante o desenvolvimento das funcionalidades e integração da aplicação.
+- **Trabalho em equipe:** colaboração contínua com os integrantes durante o desenvolvimento das funcionalidades e integração da aplicação. 
 
-- **Proatividade e resolução de problemas:** participação na implementação de melhorias visuais e estruturais da plataforma.
-
-- **Responsabilidade e gestão de tarefas:** acompanhamento das entregas e organização das atividades utilizando metodologias ágeis.
+- **Responsabilidade e gestão de tarefas:** acompanhamento das entregas e organização das atividades utilizando metodologias ágeis. Busquei concluir tarefas com atenção tanto ao funcionamento quanto à organização do código, evitando deixar pendências que pudessem impactar etapas seguintes do desenvolvimento.
 
 - [Link do Repositório](https://github.com/PontoLog)
   
@@ -398,15 +396,15 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 
 - ### Soft Skills
 
-- **Foco na experiência do usuário:** desenvolvimento de funcionalidades intuitivas para envio e manipulação de documentos dentro da aplicação.
+- **Foco na experiência do usuário:** desenvolvimento de funcionalidades intuitivas para envio e manipulação de documentos dentro da aplicação. Busquei simplificar ações que poderiam ser complexas para o usuário final, pois a preocupação não estava apenas em implementar funcionalidades, mas em tornar o processo mais intuitivo e reduzir etapas operacionais.
 
-- **Trabalho em equipe:** colaboração constante com o time durante integrações, correções e evolução das funcionalidades do sistema.
+- **Trabalho em equipe:** mantive colaboração frequente com integrantes responsáveis por outras áreas do projeto, alinhando implementações e ajustando funcionalidades conforme necessidades da equipe. Essa troca constante contribuiu para reduzir conflitos entre integrações e acelerar evolução do sistema.
 
 - **Proatividade e resolução de problemas:** participação em ajustes estruturais, correções de rotas e melhorias no fluxo da aplicação.
 
-- **Organização e documentação:** participação na documentação técnica e organização das funcionalidades implementadas.
+- **Adaptabilidade e aprendizado contínuo:** contato com tecnologias que ainda estavam fora da minha zona de conforto, como WebSocket, integração com APIs e funcionalidades ligadas à Inteligência Artificial. Busquei estudar o necessário para contribuir nas implementações, ampliando conhecimentos técnicos e capacidade de adaptação diante de novos desafios.
 
-- **Adaptabilidade e aprendizado contínuo:** contato com tecnologias de Inteligência Artificial, comunicação em tempo real e banco vetorial durante o desenvolvimento do projeto.
+- **Colaoração e comunicação:** contribuí nas apresentações do projeto, explicando funcionalidades implementadas e o impacto da solução proposta para o problema do cliente. Esse momento exigiu comunicação clara para transmitir informações técnicas de forma compreensível, reforçando minha capacidade de colaboração e trabalho em grupo.
 
 - [Link do Repositório](https://github.com/Descriptum)
   
