@@ -126,7 +126,7 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 
 - **Proatividade e resolução de problemas:** identificação de melhorias na estrutura do sistema, correção de bugs e otimização de funcionalidades durante o desenvolvimento.
 
-- **Responsabilidade e organização:** cumprimento de prazos, gerenciamento de tarefas e acompanhamento das entregas utilizando Trello.
+- **Responsabilidade e organização:** cumprimento de prazos, gerenciamento de tarefas e acompanhamento das entregas utilizando Trello. Acompanhei o progresso individual de cada colega, oferecendo suporte quando necessário e reportando o desempenho coletivo de forma precisa ao professor orientador.
 
 - **Comunicação e colaboração:** atuando como Scrum Master, criei uma rotina de dailys para compartilhamento de atualizações sobre o andamento do projeto, dificuldades encontradas e próximos passos da equipe. Essa prática ajudou a manter maior alinhamento entre os integrantes, melhorar a distribuição das tarefas e aumentar a visibilidade do progresso das entregas.
 
@@ -218,7 +218,7 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 
 - **Curiosidade e aprendizado contínuo:** busquei entender além da implementação prática como modelos de IA interpretam textos, estrutura visual e contexto dos arquivos enviados. Tive curiosidade em compreender limitações desses modelos em tarefas como análise de currículos, onde pequenas diferenças na formatação podem impactar a extração correta dos dados. Esse interesse me ajudou a desenvolver maior senso crítico sobre uso de IA, qualidade dos resultados gerados e importância da validação das informações processadas.
 
-- **Trabalho em equipe:** colaboração constante com o time de desenvolvimento durante as sprints e implementação das funcionalidades da aplicação.
+- **Trabalho em equipe:** colaboração constante com o time de desenvolvimento durante as sprints e implementação das funcionalidades da aplicação. Durante as aulas, conversávamos sobre o progresso de cada uma e víamos se precisávamos de ajuda.
 
 - **Proatividade e resolução de problemas:** participação na implementação de melhorias e desenvolvimento de funcionalidades essenciais para o funcionamento do sistema.
 
@@ -308,7 +308,7 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 
 - **Organização e padronização:** criação de componentes reutilizáveis visando consistência visual e melhor manutenção da aplicação. Em vez de criar soluções específicas para apenas uma tela, pensei em estruturas que pudessem ser reaproveitadas em outras partes do sistema, reduzindo retrabalho e tornando o desenvolvimento mais consistente para toda a equipe.
 
-- **Trabalho em equipe:** colaboração contínua com os integrantes durante o desenvolvimento das funcionalidades e integração da aplicação. 
+- **Trabalho em equipe:** colaboração contínua com os integrantes durante o desenvolvimento das funcionalidades e integração da aplicação. Em uma das etapas do desenvolvimento, assumi uma funcionalidade que estava enfrentando dificuldades para avançar, estudei o código já desenvolvido e concluí a implementação para garantir a entrega da sprint. 
 
 - **Responsabilidade e gestão de tarefas:** acompanhamento das entregas e organização das atividades utilizando metodologias ágeis. Busquei concluir tarefas com atenção tanto ao funcionamento quanto à organização do código, evitando deixar pendências que pudessem impactar etapas seguintes do desenvolvimento.
 
@@ -400,7 +400,7 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 
 - **Trabalho em equipe:** mantive colaboração frequente com integrantes responsáveis por outras áreas do projeto, alinhando implementações e ajustando funcionalidades conforme necessidades da equipe. Essa troca constante contribuiu para reduzir conflitos entre integrações e acelerar evolução do sistema.
 
-- **Proatividade e resolução de problemas:** participação em ajustes estruturais, correções de rotas e melhorias no fluxo da aplicação.
+- **Proatividade e resolução de problemas:** após feedbacks recebidos nas validações do projeto, participei da implementação de ajustes em funcionalidades e estrutura da aplicação, buscando corrigir pontos identificados e melhorar a experiência de uso do sistema.
 
 - **Adaptabilidade e aprendizado contínuo:** contato com tecnologias que ainda estavam fora da minha zona de conforto, como WebSocket, integração com APIs e funcionalidades ligadas à Inteligência Artificial. Busquei estudar o necessário para contribuir nas implementações, ampliando conhecimentos técnicos e capacidade de adaptação diante de novos desafios.
 
