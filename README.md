@@ -404,7 +404,7 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 
 - **Adaptabilidade e aprendizado contínuo:** contato com tecnologias que ainda estavam fora da minha zona de conforto, como WebSocket, integração com APIs e funcionalidades ligadas à Inteligência Artificial. Busquei estudar o necessário para contribuir nas implementações, ampliando conhecimentos técnicos e capacidade de adaptação diante de novos desafios.
 
-- **Colaoração e comunicação:** contribuí nas apresentações do projeto, explicando funcionalidades implementadas e o impacto da solução proposta para o problema do cliente. Esse momento exigiu comunicação clara para transmitir informações técnicas de forma compreensível, reforçando minha capacidade de colaboração e trabalho em grupo.
+- **Colaboração e comunicação:** contribuí nas apresentações do projeto, explicando funcionalidades implementadas e o impacto da solução proposta para o problema do cliente. Esse momento exigiu comunicação clara para transmitir informações técnicas de forma compreensível, reforçando minha capacidade de colaboração e trabalho em grupo.
 
 - [Link do Repositório](https://github.com/Descriptum)
   
@@ -467,13 +467,57 @@ A plataforma contempla diferentes interfaces de acordo com o perfil de utilizaç
 
 * ### Minhas Contribuições
 
+Durante o desenvolvimento do Orbita, minha atuação foi concentrada principalmente no desenvolvimento mobile, com contribuições adicionais nas interfaces web e no backend da aplicação.
 
+Mobile:
+
+- Desenvolvimento das telas de cadastro e login, incluindo integração com o fluxo de autenticação.
+- Implementação dos estilos globais e padronização visual da aplicação.
+- Desenvolvimento do chat para clientes e atendentes.
+- Implementação do perfil do cliente.
+- Desenvolvimento da funcionalidade de encerramento de chamados.
+- Implementação do modal de avaliação do atendimento pelo cliente.
+- Desenvolvimento da listagem de chamados em aberto.
+- Integração do fluxo de escalonamento de chamados entre os níveis de suporte.
+
+Frontend Web:
+
+- Desenvolvimento do perfil do atendente.
+- Implementação da funcionalidade de upload de arquivos.
+
+Backend:
+
+- Desenvolvimento das operações CRUD de chamados (tickets), contemplando criação, consulta, atualização e exclusão de registros.
+  
 
 * ### Hard Skills
 
 Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 
+### Hard Skills
+
+- TypeScript — uso com autonomia no desenvolvimento de aplicações frontend com tipagem estática.
+- PostgreSQL — uso com autonomia no armazenamento, consulta e gerenciamento de dados relacionais.
+- MongoDB — preciso de auxílio em algumas operações de armazenamento e consulta de dados não relacionais.
+- NestJS — preciso de auxílio no desenvolvimento de funcionalidades backend e estruturação de serviços.
+- React Native — uso com autonomia no desenvolvimento de interfaces mobile e integração de funcionalidades.
+- Expo — uso com autonomia no desenvolvimento, execução e gerenciamento de aplicações mobile.
+- Android Studio — uso com autonomia na execução, emulação e realização de testes em aplicações mobile.
+- Socket.IO — preciso de auxílio na implementação de comunicação em tempo real e integração de eventos.
+- Prisma — preciso de auxílio na utilização do ORM para consultas e manipulação de dados no banco relacional.
+- Docker — experiência na conteinerização da aplicação e configuração do ambiente com apoio da equipe.
+- Git e GitHub — uso com autonomia para versionamento, gerenciamento de branches e colaboração em equipe.
+- Metodologias Ágeis (Scrum) — uso com autonomia na organização de tarefas, acompanhamento de atividades e desenvolvimento colaborativo.
+
 - ### Soft Skills
+
+- **Proatividade:** Busquei contribuir além da execução das tarefas atribuídas, identificando oportunidades de melhoria nas funcionalidades que desenvolvi. Durante a implementação do aplicativo mobile, procurei antecipar ajustes necessários nos fluxos de chat e gerenciamento de chamados, buscando entregar uma experiência mais completa para o usuário.
+
+- **Autonomia e responsabilidade:** Desenvolvi minhas atividades com organização e comprometimento, buscando compreender os problemas antes de solicitar auxílio. Ao trabalhar com tecnologias como React Native e Expo, procurei consultar documentações e testar soluções, desenvolvendo maior independência durante as implementações.
+
+- **Colaboração:** Mantive contato frequente com os integrantes responsáveis pelo backend e pelo frontend web, principalmente para alinhar integrações e garantir que as funcionalidades desenvolvidas funcionassem de maneira consistente entre as partes do sistema.
+
+- **Adaptabilidade:** Durante o projeto, precisei lidar com tecnologias e desafios que exigiram novos aprendizados. Busquei me adaptar às necessidades do desenvolvimento, ampliando meus conhecimentos e aplicando-os na prática para contribuir com as entregas da equipe.
 
 
 - [Link do Repositório](https://github.com/pro4tech-Orbita)
@@ -531,17 +575,48 @@ Fluxo de utilização:
 
 </div>
 
-* ### Minhas Contribuições
+* ### Minhas Contribuições 
+Até o momentos, minhas contribuições:
 
+- **Estruturação do Frontend:** participação na organização da estrutura da aplicação e desenvolvimento da interface utilizando Vue.js.
+- **Componentes do Chat:** desenvolvimento e organização dos componentes responsáveis pela interação entre o usuário e a assistente Lana.
+- **Página de Campanhas:** implementação da interface de gerenciamento de campanhas, incluindo a tela de decisão e a visualização de campanhas anteriores.
+- **Histórico de Campanhas:** desenvolvimento da funcionalidade de armazenamento e consulta do histórico de campanhas, permitindo acompanhar decisões realizadas anteriormente.
+- **Decisão de Campanhas:** implementação da rota responsável pelo fluxo de aprovação ou reprovação de campanhas.
+- **Documentação Técnica:** elaboração e atualização de documentações para registrar o funcionamento e os aspectos técnicos da aplicação.
 
 
 * ### Hard Skills
 
 Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 
+- Vue.js — uso com autonomia no desenvolvimento de interfaces, componentes e páginas da aplicação.
+- TypeScript — uso com autonomia na implementação de funcionalidades e tipagem dos componentes frontend.
+- Java — preciso de auxílio no desenvolvimento de funcionalidades backend e implementação de regras de negócio.
+- Spring Boot — preciso de auxílio na criação de rotas, serviços e integrações backend.
+- PostgreSQL — uso com autonomia em operações de consulta e manipulação de dados relacionais.
+- Python — uso com autonomia em scripts e manipulação de dados, mas preciso de auxílio em estruturas mais avançadas.
+- FastAPI — uso com autonomia na criação e manutenção de endpoints para serviços de IA.
+- LangGraph — tenho conhecimento sobre a estruturação de agentes e ferramentas, mas preciso de auxílio na implementação de fluxos mais complexos.
+- Gemini API — preciso de auxílio na integração e configuração de modelos de linguagem.
+- Docker — uso com autonomia na execução e configuração de ambientes conteinerizados, com apoio em configurações mais complexas.
+- Git e GitHub — uso com autonomia para versionamento, gerenciamento de branches e colaboração em equipe.
+- Figma — uso com autonomia para consultar protótipos e orientar o desenvolvimento das interfaces.
+
 - ### Soft Skills
 
+### Soft Skills
 
+- Liderança e facilitação: Como Scrum Master do projeto, busquei facilitar o trabalho da equipe, acompanhando o andamento das atividades, promovendo alinhamentos e auxiliando na organização das entregas. Procurei manter todos envolvidos nos objetivos da sprint e contribuir para que os impedimentos fossem identificados e tratados.
+
+- Organização e planejamento: Atuei no acompanhamento das tarefas e na organização das prioridades, considerando os prazos e as entregas previstas para cada sprint. Busquei manter uma visão geral do progresso do projeto, ajudando a equipe a direcionar seus esforços para os objetivos estabelecidos.
+
+- Comunicação e escuta ativa: Mantive uma comunicação próxima com os integrantes, buscando compreender dificuldades, ouvir diferentes perspectivas e facilitar a troca de informações. Durante os alinhamentos, procurei garantir que todos tivessem clareza sobre as atividades e responsabilidades.
+
+- Resolução de problemas e gestão de conflitos: Diante de dificuldades técnicas ou divergências sobre a implementação de funcionalidades, procurei estimular o diálogo entre os integrantes, ajudando a identificar alternativas e construir soluções em conjunto, sem perder de vista os objetivos do projeto.
+
+- Adaptabilidade e colaboração: Como Scrum Master e também desenvolvedora, precisei equilibrar responsabilidades de organização da equipe com minhas próprias entregas técnicas. Essa experiência exigiu flexibilidade para lidar com mudanças de prioridades, apoiar os colegas e contribuir diretamente para a evolução do sistema.
+  
 - [Link do Repositório](https://github.com/domrock-Camplana)
   
 
