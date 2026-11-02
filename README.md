@@ -10,7 +10,11 @@ Minha trajetória na tecnologia começou durante o ensino médio integrado ao cu
 
 Escolhi então, cursar Análise e Desenvolvimento de Sistemas na Fatec devido ao forte vínculo da instituição com o mercado de tecnologia, à metodologia baseada em projetos (APIs) e à oportunidade de desenvolver soluções reais em equipe, aproximando a formação acadêmica do ambiente profissional. Ao ingressar, ampliei meus conhecimentos por meio de projetos acadêmicos, feiras de tecnologia e atividades práticas desenvolvidas ao longo da graduação. A participação constante em projetos integradores contribuiu significativamente para o desenvolvimento das minhas habilidades técnicas, analíticas e de trabalho em equipe.
 
-Atualmente, direciono meu foco para a área de Análise de Dados e atuo como estagiária em demandas analíticas voltadas ao negócio, transformando necessidades operacionais e comerciais em análises, indicadores e visualizações que auxiliam no acompanhamento de resultados e na tomada de decisão.
+Minha trajetória profissional na área de dados começou com meu estágio na Quero Educação, onde tive a oportunidade de trabalhar com análise de dados aplicada ao marketplace digital educacional. Minha atuação envolveu o acompanhamento de métricas comerciais, comportamento dos usuários, performance de produtos e análise do funil de vendas, abrangendo as etapas de aquisição, conversão e retenção. Essa experiência ampliou minha visão sobre como os dados podem revelar oportunidades de negócio e apoiar decisões estratégicas.
+
+Atualmente, faço parte do Grupo Oncar, integrante do ecossistema brasileiro de soluções automotivas, onde continuo desenvolvendo minha experiência na área. Minha atuação envolve análises de informações, acompanhamento de indicadores e desenvolvimento de automações, buscando otimizar processos, reduzir atividades operacionais e transformar dados em informações úteis para o negócio.
+
+Tenho direcionado meu desenvolvimento profissional para a área de Análise de Dados, com interesse em explorar diferentes ferramentas e tecnologias, especialmente SQL, Python, Power BI, Metabase, PySpark e Polars. Busco unir conhecimentos técnicos, visão analítica e compreensão das necessidades do negócio para desenvolver soluções que gerem valor e apoiem a tomada de decisão.
 
 ## Contatos
 
@@ -493,9 +497,6 @@ Backend:
 * ### Hard Skills
 
 Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
-
-### Hard Skills
-
 - TypeScript — uso com autonomia no desenvolvimento de aplicações frontend com tipagem estática.
 - PostgreSQL — uso com autonomia no armazenamento, consulta e gerenciamento de dados relacionais.
 - MongoDB — preciso de auxílio em algumas operações de armazenamento e consulta de dados não relacionais.
@@ -607,15 +608,15 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 
 ### Soft Skills
 
-- Liderança e facilitação: Como Scrum Master do projeto, busquei facilitar o trabalho da equipe, acompanhando o andamento das atividades, promovendo alinhamentos e auxiliando na organização das entregas. Procurei manter todos envolvidos nos objetivos da sprint e contribuir para que os impedimentos fossem identificados e tratados.
+- **Liderança e facilitação**: Como Scrum Master do projeto, busquei facilitar o trabalho da equipe, acompanhando o andamento das atividades, promovendo alinhamentos e auxiliando na organização das entregas. Procurei manter todos envolvidos nos objetivos da sprint e contribuir para que os impedimentos fossem identificados e tratados.
 
-- Organização e planejamento: Atuei no acompanhamento das tarefas e na organização das prioridades, considerando os prazos e as entregas previstas para cada sprint. Busquei manter uma visão geral do progresso do projeto, ajudando a equipe a direcionar seus esforços para os objetivos estabelecidos.
+- **Organização e planejamento**: Atuei no acompanhamento das tarefas e na organização das prioridades, considerando os prazos e as entregas previstas para cada sprint. Busquei manter uma visão geral do progresso do projeto, ajudando a equipe a direcionar seus esforços para os objetivos estabelecidos.
 
-- Comunicação e escuta ativa: Mantive uma comunicação próxima com os integrantes, buscando compreender dificuldades, ouvir diferentes perspectivas e facilitar a troca de informações. Durante os alinhamentos, procurei garantir que todos tivessem clareza sobre as atividades e responsabilidades.
+- **Comunicação e escuta ativa**: Mantive uma comunicação próxima com os integrantes, buscando compreender dificuldades, ouvir diferentes perspectivas e facilitar a troca de informações. Durante os alinhamentos, procurei garantir que todos tivessem clareza sobre as atividades e responsabilidades.
 
-- Resolução de problemas e gestão de conflitos: Diante de dificuldades técnicas ou divergências sobre a implementação de funcionalidades, procurei estimular o diálogo entre os integrantes, ajudando a identificar alternativas e construir soluções em conjunto, sem perder de vista os objetivos do projeto.
+- **Resolução de problemas e gestão de conflitos**: Diante de dificuldades técnicas ou divergências sobre a implementação de funcionalidades, procurei estimular o diálogo entre os integrantes, ajudando a identificar alternativas e construir soluções em conjunto, sem perder de vista os objetivos do projeto.
 
-- Adaptabilidade e colaboração: Como Scrum Master e também desenvolvedora, precisei equilibrar responsabilidades de organização da equipe com minhas próprias entregas técnicas. Essa experiência exigiu flexibilidade para lidar com mudanças de prioridades, apoiar os colegas e contribuir diretamente para a evolução do sistema.
+- **Adaptabilidade e colaboração**: Como Scrum Master e também desenvolvedora, precisei equilibrar responsabilidades de organização da equipe com minhas próprias entregas técnicas. Essa experiência exigiu flexibilidade para lidar com mudanças de prioridades, apoiar os colegas e contribuir diretamente para a evolução do sistema.
   
 - [Link do Repositório](https://github.com/domrock-Camplana)
   
