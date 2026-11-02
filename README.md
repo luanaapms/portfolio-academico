@@ -413,5 +413,137 @@ https://github.com/user-attachments/assets/21c88638-9079-41a0-bb21-cd13cd550546
 
 
 </details>
+<details>
+<summary>
+  Orbita - (2026-1)
+ </summary>
+
+## 💻 Orbita
+
+* ### Introdução
+
+Orbita é um projeto desenvolvido durante o quinto semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com Rafael Monteiro, representante da empresa Pro4tech. A proposta surgiu a partir de um cenário real de mercado, buscando compreender desafios enfrentados pela empresa em seus processos de atendimento ao cliente e desenvolver uma solução tecnológica alinhada às suas necessidades.
+
+* ### Objetivo
+
+Desenvolver uma aplicação mobile para centralizar e otimizar o atendimento ao cliente por meio de um sistema de chat estruturado, proporcionando uma comunicação mais organizada, ágil e eficiente entre clientes e equipes de suporte.
+
+* ### Problema
+
+A fragmentação dos canais de atendimento gera gargalos operacionais e compromete a eficiência no relacionamento com os clientes. A ausência de uma triagem inicial centralizada sobrecarrega os atendentes com solicitações recorrentes e dificulta o direcionamento adequado dos chamados aos diferentes níveis de suporte.
+Além disso, a falta de um ambiente unificado para o registro das interações prejudica a continuidade dos atendimentos, ocasionando perda de histórico, retrabalho e baixa rastreabilidade das solicitações. Esse cenário também limita o acompanhamento gerencial e impacta diretamente a experiência do cliente.
+
+* ### Solução
+
+Orbita propõe uma plataforma integrada de atendimento que centraliza e organiza toda a jornada de suporte, desde a abertura da solicitação até sua resolução. A solução utiliza uma triagem inteligente por meio de um aplicativo mobile, permitindo identificar as necessidades dos clientes, solucionar demandas simples e encaminhar casos mais complexos às equipes humanas, organizadas por níveis de suporte.
+
+A plataforma contempla diferentes interfaces de acordo com o perfil de utilização:
+- Aplicativo Mobile: ambiente destinado aos clientes, permitindo iniciar conversas, solicitar suporte e acompanhar seus atendimentos.
+- Painel Web – Atendentes: interface para gerenciamento e acompanhamento dos chamados, facilitando a comunicação com os clientes e a resolução das solicitações.
+- Painel Web – Administradores: ambiente para gerenciamento das filas de atendimento, acompanhamento das equipes e monitoramento de indicadores de desempenho.
+
+* ### Tecnologias Utilizadas
+
+<div align="center">
+
+| Tecnologias | Aplicação |
+| --- | --- |
+| ![React Native](https://img.shields.io/badge/react_native-5E35B1.svg?style=for-the-badge&logo=react&logoColor=white) | Desenvolvimento da interface mobile destinada aos clientes. |
+| ![Expo](https://img.shields.io/badge/Expo-5E35B1?style=for-the-badge&logo=expo&logoColor=white) | Facilitação do desenvolvimento, execução e gerenciamento do aplicativo mobile. |
+| ![Android Studio](https://img.shields.io/badge/android_studio-5E35B1.svg?style=for-the-badge&logo=android-studio&logoColor=white) | Apoio na execução, emulação e testes do aplicativo mobile. |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-5E35B1?style=for-the-badge&logo=typescript&logoColor=white) | Estruturação tipada do código e desenvolvimento das funcionalidades frontend e backend. |
+| ![Next.js](https://img.shields.io/badge/Next.js-5E35B1?style=for-the-badge&logo=nextdotjs&logoColor=white) | Desenvolvimento das interfaces web destinadas aos atendentes e administradores. |
+| ![CSS](https://img.shields.io/badge/CSS-5E35B1?&style=for-the-badge&logo=css3&logoColor=white) | Estilização e personalização dos componentes das interfaces web. |
+| ![Node.js](https://img.shields.io/badge/Node.js-5E35B1?style=for-the-badge&logo=node.js&logoColor=white) | Ambiente de execução utilizado no desenvolvimento dos serviços backend. |
+| ![Nest.js](https://img.shields.io/badge/nestjs-5E35B1?style=for-the-badge&logo=nestjs&logoColor=white) | Construção da API backend e organização das regras de negócio da aplicação. |
+| ![Prisma](https://img.shields.io/badge/Prisma-5E35B1?style=for-the-badge&logo=Prisma&logoColor=white) | ORM utilizado para comunicação e manipulação dos dados no banco relacional. |
+| ![Postgres](https://img.shields.io/badge/postgres-5E35B1.svg?style=for-the-badge&logo=postgresql&logoColor=white) | Armazenamento e gerenciamento dos dados relacionais da aplicação. |
+| ![MongoDB](https://img.shields.io/badge/mongodb-5E35B1?style=for-the-badge&logo=mongodb&logoColor=white) | Armazenamento de dados não relacionais utilizados pela aplicação. |
+| ![Socket.IO](https://img.shields.io/badge/Socket.IO-5E35B1?style=for-the-badge&logo=socketdotio&logoColor=white) | Comunicação em tempo real entre clientes e equipes de atendimento por meio de conexões bidirecionais. |
+| ![Docker](https://img.shields.io/badge/docker-5E35B1.svg?style=for-the-badge&logo=docker&logoColor=white) | Conteinerização dos serviços e padronização do ambiente de desenvolvimento. |
+| ![Figma](https://img.shields.io/badge/figma-5E35B1.svg?style=for-the-badge&logo=figma&logoColor=white) | Prototipação das interfaces e planejamento da experiência do usuário. |
+
+</div>
+
+* ### Minhas Contribuições
 
 
+
+* ### Hard Skills
+
+Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
+
+- ### Soft Skills
+
+
+- [Link do Repositório](https://github.com/pro4tech-Orbita)
+  
+
+
+</details>
+
+<details>
+<summary>
+  Camplana - (2026-2)
+ </summary>
+
+## 💻 Camplana
+
+* ### Introdução
+
+Camplana é um projeto desenvolvido durante o sexto semestre do curso de Análise e Desenvolvimento de Sistemas, em parceria com André de Almeida, representante da empresa Dom Rock. A proposta consiste no desenvolvimento de uma plataforma web com Inteligência Artificial Generativa, voltada à criação, ao gerenciamento e à simulação de campanhas de comissionamento. O projeto busca aplicar conceitos de Engenharia de Software Assistida por Inteligência Artificial para transformar regras de negócio descritas em linguagem natural em parâmetros estruturados, permitindo sua análise e validação antes da implementação.
+
+* ### Objetivo
+
+Desenvolver uma plataforma para gerenciamento de regras de negócio, utilizando técnicas de Engenharia de Software Assistida por Inteligência Artificial. O sistema tem como objetivo permitir que gestores registrem, organizem, analisem e simulem regras de negócio de maneira estruturada, reduzindo inconsistências operacionais, conflitos entre regras, dependência de conhecimento tácito e perda de rastreabilidade. Além disso, busca facilitar a tomada de decisão por meio de simulações financeiras e análises dos impactos gerados pelas campanhas de comissionamento.
+
+* ### Problema
+
+As empresas lidam constantemente com regras de negócio que sofrem alterações em decorrência de novos produtos, mudanças de preços, campanhas comerciais e revisões de acordos com parceiros e fornecedores. Entretanto, essas regras nem sempre são documentadas, centralizadas ou estruturadas adequadamente, dificultando sua manutenção, interpretação e aplicação. Esse cenário pode gerar inconsistências operacionais, conflitos entre regras, dependência do conhecimento individual dos colaboradores e dificuldades para rastrear alterações e compreender seus impactos financeiros. No contexto das campanhas de comissionamento, a ausência de mecanismos eficientes para estruturar e simular regras também dificulta a previsão de custos e a avaliação dos resultados antes de sua aplicação.
+
+* ### Solução
+
+Camplana é uma plataforma web que utiliza Inteligência Artificial Generativa, por meio da assistente Lana, para apoiar a criação, o gerenciamento e a simulação de campanhas de comissionamento. O gerente descreve as regras desejadas em linguagem natural, e a Lana interpreta a solicitação, extrai os parâmetros da campanha e os disponibiliza para revisão e edição antes da simulação. Um dos diferenciais da solução está na confiabilidade dos cálculos: a IA gera o código Python correspondente à regra de negócio, que é executado de forma isolada sobre os dados reais de vendas e RH da Dom Rock. Os resultados passam por validações determinísticas, garantindo maior precisão, transparência e rastreabilidade.
+
+Fluxo de utilização:
+- Descrição da campanha: o gerente informa a regra desejada por meio do chat com a Lana.
+- Revisão dos parâmetros: a assistente estrutura as informações da campanha, permitindo ajustes e solicitando dados que estejam faltando.
+- Simulação: o código Python gerado é executado sobre os dados reais para calcular os impactos da campanha.
+- Análise dos resultados: a plataforma apresenta custos adicionais, pessoas impactadas, distribuição dos custos por marca, cargo e loja, cenários alternativos e o código utilizado nos cálculos.
+
+* ### Tecnologias Utilizadas
+
+<div align="center">
+
+| Tecnologias | Aplicação |
+| --- | --- |
+| ![Vue.js](https://img.shields.io/badge/vue.js-5E35B1.svg?style=for-the-badge&logo=vuedotjs&logoColor=white) | Desenvolvimento das interfaces frontend da plataforma web. |
+| ![Spring Boot](https://img.shields.io/badge/spring_boot-5E35B1.svg?style=for-the-badge&logo=springboot&logoColor=white) | Construção do backend, gerenciamento das regras de negócio e integração entre os serviços. |
+| ![Java](https://img.shields.io/badge/java-5E35B1.svg?style=for-the-badge&logo=openjdk&logoColor=white) | Linguagem utilizada no desenvolvimento dos serviços backend. |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5E35B1?style=for-the-badge&logo=postgresql&logoColor=white) | Armazenamento e gerenciamento dos dados relacionais da aplicação. |
+| ![Docker](https://img.shields.io/badge/Docker-5E35B1?style=for-the-badge&logo=docker&logoColor=white) | Conteinerização dos serviços e padronização do ambiente de desenvolvimento. |
+| ![Python](https://img.shields.io/badge/python-5E35B1.svg?style=for-the-badge&logo=python&logoColor=white) | Geração e execução de códigos para aplicação e simulação das regras de comissionamento. |
+| ![FastAPI](https://img.shields.io/badge/fastapi-5E35B1.svg?style=for-the-badge&logo=fastapi&logoColor=white) | Disponibilização de endpoints HTTP para comunicação e execução de funcionalidades do serviço de IA. |
+| ![gRPC](https://img.shields.io/badge/gRPC-5E35B1?style=for-the-badge&logo=grpc&logoColor=white) | Comunicação entre o backend Java e o serviço de IA em Python. |
+| ![LangGraph](https://img.shields.io/badge/langgraph-5E35B1?style=for-the-badge&logo=langgraph&logoColor=white) | Orquestração do agente de IA e gerenciamento do fluxo de execução das ferramentas. |
+| ![Gemini](https://img.shields.io/badge/Gemini-5E35B1?style=for-the-badge&logo=googlegemini&logoColor=white) | Modelo de linguagem utilizado na interpretação das solicitações e geração de parâmetros das campanhas. |
+| ![Figma](https://img.shields.io/badge/figma-5E35B1.svg?style=for-the-badge&logo=figma&logoColor=white) | Prototipação das interfaces e planejamento da experiência do usuário. |
+
+</div>
+
+* ### Minhas Contribuições
+
+
+
+* ### Hard Skills
+
+Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
+
+- ### Soft Skills
+
+
+- [Link do Repositório](https://github.com/domrock-Camplana)
+  
+
+
+</details>
